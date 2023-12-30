@@ -1,2 +1,38 @@
+body {
+    background-color: rgb(238, 205, 187)
+}
 
+.navbar-brand {
+    background-color: rgb(169, 165, 190);
+    border-radius: 19px;
+}
 
+.nav-link {
+    font-size: large;
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+.textHeading {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+.form-control {
+    border-radius: 13px;
+}
+
+.textSummary {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+.lengthCounter {
+    color: aliceblue;
+    margin: 19px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: rgba(6, 1, 14, 0.941);
+    box-sizing: content-box;
+}
